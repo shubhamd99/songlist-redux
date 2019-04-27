@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/songlist-redux/static/css/main.bdec3951.chunk.css",
+    "main.js": "/songlist-redux/static/js/main.de7d770f.chunk.js",
+    "main.js.map": "/songlist-redux/static/js/main.de7d770f.chunk.js.map",
+    "runtime~main.js": "/songlist-redux/static/js/runtime~main.823cd37f.js",
+    "runtime~main.js.map": "/songlist-redux/static/js/runtime~main.823cd37f.js.map",
+    "static/js/2.5191c8ec.chunk.js": "/songlist-redux/static/js/2.5191c8ec.chunk.js",
+    "static/js/2.5191c8ec.chunk.js.map": "/songlist-redux/static/js/2.5191c8ec.chunk.js.map",
+    "index.html": "/songlist-redux/index.html",
+    "precache-manifest.c91ee64dcb80a1bd6da3eb9c2be085c8.js": "/songlist-redux/precache-manifest.c91ee64dcb80a1bd6da3eb9c2be085c8.js",
+    "service-worker.js": "/songlist-redux/service-worker.js",
+    "static/css/main.bdec3951.chunk.css.map": "/songlist-redux/static/css/main.bdec3951.chunk.css.map",
+    "static/media/cover.png": "/songlist-redux/static/media/cover.d8862555.png"
+  }
+}
