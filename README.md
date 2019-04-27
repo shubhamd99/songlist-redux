@@ -2,4 +2,6 @@
 
 #### Link - https://shubhamd99.github.io/songlist-redux/
 
-![alt_txt]()
+![alt_txt](https://i.imgur.com/t8vxXXC.png)
+
+![alt_txt](https://i.imgur.com/VGKSgxK.jpg)
