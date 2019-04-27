@@ -2,7 +2,7 @@
   "name": "react-redux-basic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shubhamd99.github.io/firebase-auth/",
+  "homepage": "https://shubhamd99.github.io/songlist-redux/",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@svgr/webpack": "4.1.0",
